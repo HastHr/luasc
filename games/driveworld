@@ -1,0 +1,8 @@
+local key = loadstring(game:HttpGet("https://raw.githubusercontent.com/nxtcapi/iceware/main/keysys"))()
+
+key:MakeUI({
+  Title = "IceWare",
+  KeyLinkName = "IceWareV2",
+  DiscordID = "4aYJfXJkeH",
+  ScriptLink = "https://scripts.luawl.com/hosted/3669/18515/IceWareDriveWorld.lua"
+})
